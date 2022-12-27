@@ -6,53 +6,53 @@ import brain from '../brain.png'
 
 const CARD_ARRAY = [
   {
-    name: 'fries',
-    img: '/images/fries.png'
+    name: 'sasuke',
+    img: '/images/pngwing.com.png'
   },
   {
-    name: 'cheeseburger',
-    img: '/images/cheeseburger.png'
+    name: 'itachi',
+    img: '/images/pngwing.com (1).png'
   },
   {
-    name: 'ice-cream',
-    img: '/images/ice-cream.png'
+    name: 'hinata',
+    img: '/images/pngwing.com (5).png'
   },
   {
-    name: 'pizza',
-    img: '/images/pizza.png'
+    name: 'kakashi',
+    img: '/images/pngwing.com (4).png'
   },
   {
-    name: 'milkshake',
-    img: '/images/milkshake.png'
+    name: 'sakura',
+    img: '/images/pngwing.com (3).png'
   },
   {
-    name: 'hotdog',
-    img: '/images/hotdog.png'
+    name: 'naruto',
+    img: '/images/pngwing.com (2).png'
   },
   {
-    name: 'fries',
-    img: '/images/fries.png'
+    name: 'sasuke',
+    img: '/images/pngwing.com.png'
   },
   {
-    name: 'cheeseburger',
-    img: '/images/cheeseburger.png'
+    name: 'itachi',
+    img: '/images/pngwing.com (1).png'
   },
   {
-    name: 'ice-cream',
-    img: '/images/ice-cream.png'
+    name: 'hinata',
+    img: '/images/pngwing.com (5).png'
   },
   {
-    name: 'pizza',
-    img: '/images/pizza.png'
+    name: 'kakashi',
+    img: '/images/pngwing.com (4).png'
   },
   {
-    name: 'milkshake',
-    img: '/images/milkshake.png'
+    name: 'sakura',
+    img: '/images/pngwing.com (3).png'
   },
   {
-    name: 'hotdog',
-    img: '/images/hotdog.png'
-  }
+    name: 'naruto',
+    img: '/images/pngwing.com (2).png'
+  },
 ]
 
 class App extends Component {
